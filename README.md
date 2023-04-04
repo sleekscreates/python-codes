@@ -2,7 +2,7 @@
 
 **My Python Code** is a collection of code that I have taken my time to write as I continue to learn Python programming language.
 
-The First Python code is a Python Function that checks whether a number belongs to a Fibonacci Sequence or Not when you input any number on the function. In Addition to that is a Python Function that checks if a number is a Prime Number or Not when you input any number on the function.
+The First Python code is a Python Function that checks whether a number belongs to a Fibonacci Sequence or Not when you input any number on the function. In Addition to that, A Python Function that checks if a number is a Prime Number or Not when you input any number on the function.
 
 # FIBONACCI SEQUENCE
 
