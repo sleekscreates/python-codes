@@ -2,7 +2,7 @@
 
 **My Python Code** is a collection of code that I have taken my time to write as I continue to learn Python programming language.
 
-The First Python code is a Python Function that checks whether a number belongs to a Fibonacci Sequence or Not when you input any number on the function. In Addition to that, A Python Function that checks if a number is a Prime Number or Not when you input any number on the function.
+The First Python code is a Python Function that checks whether a number belongs to a Fibonacci Sequence or Not when you input any number on the function. Secondly, I did a Python Function that checks if a number is a Prime Number or Not when you input any number on the function.In Addition to those two, I also did another Python Function that checks whether a number is Positive, Negative and/or Zero when you input any desired number to the function.
 
 # FIBONACCI SEQUENCE
 
@@ -43,3 +43,14 @@ Then **elif statement**, **num> 1** and as you prime numbers are always greater 
 Then  you have the for statement condition where the range starts from 2  and goes on to numbers greater than 2, **if statement** **(num % x) == 0** and the code returns "Is Not a Prime Number" on the compiler.
 
 Finally, **else statement** which will return Is a Prime Number.
+
+# POSITIVE AND NEGATIVE NUMBERS.
+
+**Integers** are really sets of whole numbers consisting of positive numbers, negative numbers and zero.
+
+**Positive numbers** are real numbers greater than zero and are found on the right side of the number line while **Negative numbers**
+are real numbers less than zero and are found in the left side of the number line.
+
+In the Third Python function, I implemented if...elif...else whereby you declare the function that enables the user to enter any number of choice.
+
+Then you use **If statement**, number == 0 that makes the compiler to print out zero, Consequently the **elif statement** number < 0 will produce negative numbers, then again another *elif statement* that returns positive numbers this time around and eventually the "else statement" that prints out incorrect input, this is not a number.  
